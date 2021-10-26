@@ -22,7 +22,7 @@ Collect Dataset : Herbal Leaves
 Pada project ini, kami menggunakan dataset Daun Jeruk Nipis dan Daun Seledri.
 
 <p align="left"> 
-  <img width="460" height="300" src="![001](https://user-images.githubusercontent.com/79831507/138796065-392ac4a4-c863-41fe-a589-0745424c5cbb.jpg)/460/300">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/79831507/138796065-392ac4a4-c863-41fe-a589-0745424c5cbb.jpg/460/300">
  </p>
 
 <p align="right"> ![001](https://user-images.githubusercontent.com/79831507/138796096-f44e47dc-a3b4-4e24-a5a2-7e7bfeefbb17.jpg)
