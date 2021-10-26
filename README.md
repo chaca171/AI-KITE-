@@ -1,7 +1,7 @@
 # AI-KITE-PROJECT
 
 <p align="center">
-  <img width="460" height="300" src="https://sasanadigital.com/wp-content/uploads/2020/12/Beberapa-Fungsi-dari-Kecerdasan-Buatan-AI-Dalam-Dunia-Industri-e1608562839961.jpeg/460/300">
+  <img width="460" height="300" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fwww.nesabamedia.com%2Fwp-content%2Fuploads%2F2019%2F09%2F10-Contoh-Penerapan-AI-Artificial-Intelligence-Paling-Populer.jpg%3Ffit%3D1100%252C619%26ssl%3D1&imgrefurl=https%3A%2F%2Fwww.nesabamedia.com%2Fcontoh-penerapan-ai-artificial-intelligence%2F&tbnid=mQ5PWmFa3OBq7M&vet=12ahUKEwjh2Zr2rufzAhUaL7cAHQT-BakQMygKegUIARCMAQ..i&docid=5xS0bZssDTrEbM&w=1100&h=619&q=ai&ved=2ahUKEwjh2Zr2rufzAhUaL7cAHQT-BakQMygKegUIARCMAQ/460/300">
 </p>
 
 ## About Artificial Intelligence
