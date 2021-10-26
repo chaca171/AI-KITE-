@@ -1,7 +1,7 @@
 # AI-KITE-PROJECT
 
 <p align="center">
-  <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/79831507/138795742-dc2fdfb6-f16a-4af2-a589-de18093e65d7.png)/460/300">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/79831507/138795742-dc2fdfb6-f16a-4af2-a589-de18093e65d7.png/460/300">
 </p>
 
 ## About Artificial Intelligence
