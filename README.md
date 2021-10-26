@@ -1,7 +1,7 @@
 # AI-KITE-PROJECT
 
 <p align="center">
- "![image](https://user-images.githubusercontent.com/79831507/138815925-630733fd-7605-403c-95c6-db7be0289964.png)
+ ![image](https://user-images.githubusercontent.com/79831507/138815925-630733fd-7605-403c-95c6-db7be0289964.png)
 </p>
 
 ## About Artificial Intelligence
