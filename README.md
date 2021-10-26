@@ -1,7 +1,7 @@
 # AI-KITE-PROJECT
 
 <p align="center">
-  <img width="460" height="300" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgmedia.net.id%2Fupload%2Ffoto_artikel%2F20210907ByCGTxEP32.jpg&imgrefurl=https%3A%2F%2Fgmedia.net.id%2Finfo%2Fnews%2Fdetail%2F809%2FArtificial-Intelligence-AI-Sangat-Membantu-Proses-Bisnis-Mengapa-&tbnid=CfwkM4eMZs3NjM&vet=12ahUKEwjh2Zr2rufzAhUaL7cAHQT-BakQMygCegQIARB8..i&docid=2EY8_ExDrs4HNM&w=1920&h=1080&q=ai&ved=2ahUKEwjh2Zr2rufzAhUaL7cAHQT-BakQMygCegQIARB8/460/300">
+  <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/79831507/138815925-630733fd-7605-403c-95c6-db7be0289964.png)/460/300">
 </p>
 
 ## About Artificial Intelligence
