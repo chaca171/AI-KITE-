@@ -1,12 +1,12 @@
 # AI-KITE-PROJECT
 
-<central, ![image](https://user-images.githubusercontent.com/79831507/138795742-dc2fdfb6-f16a-4af2-a589-de18093e65d7.png)>
+![image](https://user-images.githubusercontent.com/79831507/138795742-dc2fdfb6-f16a-4af2-a589-de18093e65d7.png)
 
 ## About Artificial Intelligence
 
 Kecerdasan Buatan atau Artificial Intelligence memungkinkan mesin untuk belajar dari pengalaman, menyesuaikan input-input baru dan melaksanakan tugas seperti manusia.
 
-Note: Repository ini akan selalu di update oleh developer, jangan lupa untuk selalu mengunjungi repository kami https://github.com/chaca171/AI-KITE- 
+-Note: Repository ini akan selalu di update oleh developer, jangan lupa untuk selalu mengunjungi repository kami https://github.com/chaca171/AI-KITE- 
 
 
 ## General
