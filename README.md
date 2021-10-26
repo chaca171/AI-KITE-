@@ -1,7 +1,7 @@
 # AI-KITE-PROJECT
 
 <p align="center">
-  <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsasanadigital.com%2Fbeberapa-fungsi-dari-kecerdasan-buatan-ai-dalam-dunia-industri%2F&psig=AOvVaw1BAbDypadrN05DOC-WomkH&ust=1635313304604000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPie1J2w5_MCFQAAAAAdAAAAABAD/460/300">
+  <img width="460" height="300" src="https://sasanadigital.com/wp-content/uploads/2020/12/Beberapa-Fungsi-dari-Kecerdasan-Buatan-AI-Dalam-Dunia-Industri-e1608562839961.jpeg/460/300">
 </p>
 
 ## About Artificial Intelligence
