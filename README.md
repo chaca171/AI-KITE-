@@ -14,6 +14,10 @@ Kecerdasan Buatan atau Artificial Intelligence memungkinkan mesin untuk belajar 
 
 Pada mata kuliah Kecerdasan Buatan ini, mahasiswa diharapkan dapat mempelajari dan memahami dasar dari kecerdasan buatan serta dapat mengimplemetasikannya dalam kehidupan sehari-hari.
 
+## Progress
+
+Pada setiap minggu-nya kami akan selalu melakukan progress pada repository ini
+
 ## Dataset
 
 Collect Dataset : Herbal Leaves
