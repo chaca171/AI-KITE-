@@ -1,6 +1,6 @@
 # AI-KITE-PROJECT
 
-<central> ![image](https://user-images.githubusercontent.com/79831507/138795742-dc2fdfb6-f16a-4af2-a589-de18093e65d7.png)
+<central, ![image](https://user-images.githubusercontent.com/79831507/138795742-dc2fdfb6-f16a-4af2-a589-de18093e65d7.png)>
 
 ## About Artificial Intelligence
 
